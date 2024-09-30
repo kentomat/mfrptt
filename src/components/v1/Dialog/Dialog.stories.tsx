@@ -5,9 +5,9 @@ import { Button } from '../../';
 import { Dialog, DialogBody } from './Dialog';
 
 const meta = {
-  title: 'Component/DADS v1/ModalDialog',
+  title: 'Component/ModalDialog',
   component: Dialog,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof Dialog>;
 
 export default meta;

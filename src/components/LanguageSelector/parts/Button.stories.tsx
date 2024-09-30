@@ -5,9 +5,9 @@ import { LanguageSelectorArrowIcon, LanguageSelectorGlobeIcon } from './../';
 import { LanguageSelectorButton } from './Button';
 
 const meta = {
-  title: 'Component/DADS v2/LanguageSelector/Parts/Button',
+  title: 'Component/LanguageSelector/Parts/Button',
   component: LanguageSelectorButton,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   parameters: {
     docs: {
       description: {

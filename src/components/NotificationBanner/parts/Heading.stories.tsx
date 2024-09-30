@@ -2,9 +2,9 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { NotificationBannerHeading } from './Heading';
 
 const meta = {
-  title: 'Component/DADS v2/NotificationBanner/Parts/Heading',
+  title: 'Component/NotificationBanner/Parts/Heading',
   component: NotificationBannerHeading,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     level: {
       options: ['h2', 'h3', 'h4', 'h5', 'h6'],

@@ -4,9 +4,9 @@ import { ErrorText, Label, RequirementBadge, SupportText } from '../';
 import { Select } from './Select';
 
 const meta = {
-  title: 'Component/DADS v2/Select',
+  title: 'Component/Select',
   component: Select,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     blockSize: {
       options: ['lg', 'md', 'sm'],

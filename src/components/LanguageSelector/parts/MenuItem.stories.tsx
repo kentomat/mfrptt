@@ -4,9 +4,9 @@ import { LanguageSelectorMenu } from './../';
 import { LanguageSelectorMenuItem } from './MenuItem';
 
 const meta = {
-  title: 'Component/DADS v2/LanguageSelector/Parts/MenuItem',
+  title: 'Component/LanguageSelector/Parts/MenuItem',
   component: LanguageSelectorMenuItem,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     isCurrent: {
       description: '選択された表示言語の項目に設定します。',

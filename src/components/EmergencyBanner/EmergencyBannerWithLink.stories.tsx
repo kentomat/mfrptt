@@ -6,9 +6,9 @@ import { EmergencyBannerButton } from './parts/Button';
 import { EmergencyBannerHeading } from './parts/Heading';
 
 const meta = {
-  title: 'Component/DADS v2/EmergencyBanner/EmergencyBannerWithLink',
+  title: 'Component/EmergencyBanner/EmergencyBannerWithLink',
   component: EmergencyBannerWithLink,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     href: {
       description: '緊急時バナーのリンク先URLを設定します。',

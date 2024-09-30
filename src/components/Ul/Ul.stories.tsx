@@ -3,9 +3,9 @@ import React from 'react';
 import { Ul } from './Ul';
 
 const meta = {
-  title: 'Component/DADS v2/Ul',
+  title: 'Component/Ul',
   component: Ul,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof Ul>;
 
 export default meta;

@@ -2,9 +2,9 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { LanguageSelectorGlobeIcon } from './GlobeIcon';
 
 const meta = {
-  title: 'Component/DADS v2/LanguageSelector/Parts/GlobeIcon',
+  title: 'Component/LanguageSelector/Parts/GlobeIcon',
   component: LanguageSelectorGlobeIcon,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof LanguageSelectorGlobeIcon>;
 
 export default meta;

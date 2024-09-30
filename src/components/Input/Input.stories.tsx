@@ -4,9 +4,9 @@ import { ErrorText, Label, RequirementBadge, SupportText } from '../';
 import { Input } from './Input';
 
 const meta = {
-  title: 'Component/DADS v2/Input',
+  title: 'Component/Input',
   component: Input,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     blockSize: {
       options: ['lg', 'md', 'sm'],

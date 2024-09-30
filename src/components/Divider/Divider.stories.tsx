@@ -3,9 +3,9 @@ import React from 'react';
 import { Divider } from './Divider';
 
 const meta = {
-  title: 'Component/DADS v2/Divider',
+  title: 'Component/Divider',
   component: Divider,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     color: {
       options: ['gray-420', 'gray-536', 'black'],

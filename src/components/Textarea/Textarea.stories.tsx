@@ -4,9 +4,9 @@ import { ErrorText, Label, RequirementBadge, SupportText } from '../';
 import { Textarea } from './Textarea';
 
 const meta = {
-  title: 'Component/DADS v2/Textarea',
+  title: 'Component/Textarea',
   component: Textarea,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     isError: {
       description: 'エラー状態であるかどうかを指定します。',

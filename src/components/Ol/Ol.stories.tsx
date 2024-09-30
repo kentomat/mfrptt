@@ -3,9 +3,9 @@ import React from 'react';
 import { Ol } from './Ol';
 
 const meta = {
-  title: 'Component/DADS v2/Ol',
+  title: 'Component/Ol',
   component: Ol,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof Ol>;
 
 export default meta;

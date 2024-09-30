@@ -4,9 +4,9 @@ import { LanguageSelectorMenuItem } from './../';
 import { LanguageSelectorMenu } from './Menu';
 
 const meta = {
-  title: 'Component/DADS v2/LanguageSelector/Parts/Menu',
+  title: 'Component/LanguageSelector/Parts/Menu',
   component: LanguageSelectorMenu,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     isCondensed: {
       description: '`LanguageSelectorMenuItem` に `isCondensed`を設定している際に使用します。',

@@ -2,9 +2,9 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { LanguageSelectorArrowIcon } from './ArrowIcon';
 
 const meta = {
-  title: 'Component/DADS v2/LanguageSelector/Parts/ArrowIcon',
+  title: 'Component/LanguageSelector/Parts/ArrowIcon',
   component: LanguageSelectorArrowIcon,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof LanguageSelectorArrowIcon>;
 
 export default meta;

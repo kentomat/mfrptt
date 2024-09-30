@@ -4,9 +4,9 @@ import { ErrorText, Legend, RequirementBadge, SupportText } from '../';
 import { Checkbox } from './Checkbox';
 
 const meta = {
-  title: 'Component/DADS v2/Checkbox',
+  title: 'Component/Checkbox',
   component: Checkbox,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     isError: {
       description: 'エラー状態であるかどうかを指定します。',

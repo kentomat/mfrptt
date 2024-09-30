@@ -4,9 +4,9 @@ import { Ol } from '../';
 import { Table, Tbody, Td, Th, Thead, Tr } from './Table';
 
 const meta = {
-  title: 'Component/DADS v2/Table',
+  title: 'Component/Table',
   component: Table,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof Table>;
 
 export default meta;

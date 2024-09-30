@@ -2,9 +2,9 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { ErrorText } from './ErrorText';
 
 const meta = {
-  title: 'Component/DADS v2/ErrorText',
+  title: 'Component/ErrorText',
   component: ErrorText,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof ErrorText>;
 
 export default meta;

@@ -5,9 +5,9 @@ import { Link } from '../';
 import { Button } from './Button';
 
 const meta = {
-  title: 'Component/DADS v2/Button',
+  title: 'Component/Button',
   component: Button,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     variant: {
       options: ['solid-fill', 'outline', 'text'],

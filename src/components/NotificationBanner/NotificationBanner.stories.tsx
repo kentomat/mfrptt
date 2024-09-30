@@ -8,9 +8,9 @@ import { NotificationBannerHeader } from './parts/Header';
 import { NotificationBannerHeading } from './parts/Heading';
 
 const meta = {
-  title: 'Component/DADS v2/NotificationBanner',
+  title: 'Component/NotificationBanner',
   component: NotificationBanner,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     bannerStyle: {
       options: ['standard', 'color-chip'],

@@ -3,9 +3,9 @@ import React from 'react';
 import { Label } from './Label';
 
 const meta = {
-  title: 'Component/DADS v2/Label',
+  title: 'Component/Label',
   component: Label,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     size: {
       options: ['lg', 'md', 'sm'],

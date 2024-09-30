@@ -4,9 +4,9 @@ import { ErrorText, Legend, RequirementBadge, SupportText } from '../';
 import { Radio } from './Radio';
 
 const meta = {
-  title: 'Component/DADS v2/Radio',
+  title: 'Component/Radio',
   component: Radio,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     isError: {
       description: 'エラー状態であるかどうかを指定します。',

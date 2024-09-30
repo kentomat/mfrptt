@@ -3,9 +3,9 @@ import React from 'react';
 import { Link, LinkExternalLinkIcon } from './Link';
 
 const meta = {
-  title: 'Component/DADS v2/Link',
+  title: 'Component/Link',
   component: Link,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof Link>;
 
 export default meta;

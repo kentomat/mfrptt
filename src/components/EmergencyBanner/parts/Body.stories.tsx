@@ -3,9 +3,9 @@ import React from 'react';
 import { EmergencyBannerBody } from './Body';
 
 const meta = {
-  title: 'Component/DADS v2/EmergencyBanner/Parts/Body',
+  title: 'Component/EmergencyBanner/Parts/Body',
   component: EmergencyBannerBody,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   parameters: {
     docs: {
       description: {

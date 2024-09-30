@@ -2,9 +2,9 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { SupportText } from './SupportText';
 
 const meta = {
-  title: 'Component/DADS v2/SupportText',
+  title: 'Component/SupportText',
   component: SupportText,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof SupportText>;
 
 export default meta;

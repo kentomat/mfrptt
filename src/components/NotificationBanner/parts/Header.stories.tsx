@@ -4,9 +4,9 @@ import { NotificationBanner, NotificationBannerClose, NotificationBannerHeading 
 import { NotificationBannerHeader } from './Header';
 
 const meta = {
-  title: 'Component/DADS v2/NotificationBanner/Parts/Header',
+  title: 'Component/NotificationBanner/Parts/Header',
   component: NotificationBannerHeader,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   parameters: {
     docs: {
       description: {

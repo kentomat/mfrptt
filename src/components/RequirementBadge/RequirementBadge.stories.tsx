@@ -3,9 +3,9 @@ import React from 'react';
 import { RequirementBadge } from './RequirementBadge';
 
 const meta = {
-  title: 'Component/DADS v2/RequirementBadge',
+  title: 'Component/RequirementBadge',
   component: RequirementBadge,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     isOptional: {
       description: '任意項目の場合に `true` を指定します。',

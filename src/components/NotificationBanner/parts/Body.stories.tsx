@@ -4,9 +4,9 @@ import { Button } from '../../';
 import { NotificationBannerBody } from './Body';
 
 const meta = {
-  title: 'Component/DADS v2/NotificationBanner/Parts/Body',
+  title: 'Component/NotificationBanner/Parts/Body',
   component: NotificationBannerBody,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   parameters: {
     docs: {
       description: {

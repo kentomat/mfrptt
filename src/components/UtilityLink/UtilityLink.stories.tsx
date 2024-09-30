@@ -3,9 +3,9 @@ import React from 'react';
 import { UtilityLink, UtilityLinkExternalLinkIcon } from './UtilityLink';
 
 const meta = {
-  title: 'Component/DADS v2/UtilityLink',
+  title: 'Component/UtilityLink',
   component: UtilityLink,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof UtilityLink>;
 
 export default meta;

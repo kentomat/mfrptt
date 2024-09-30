@@ -3,9 +3,9 @@ import React from 'react';
 import { Legend } from './Legend';
 
 const meta = {
-  title: 'Component/DADS v2/Legend',
+  title: 'Component/Legend',
   component: Legend,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     size: {
       options: ['lg', 'md', 'sm'],

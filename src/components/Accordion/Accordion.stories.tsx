@@ -8,9 +8,9 @@ import {
 } from './Accordion';
 
 const meta = {
-  title: 'Component/DADS v2/Accordion',
+  title: 'Component/Accordion',
   component: Accordion,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
 } satisfies Meta<typeof Accordion>;
 
 export default meta;

@@ -2,9 +2,9 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { CloseWithLabelIcon } from './CloseWithLabelIcon';
 
 const meta = {
-  title: 'Component/DADS v2/HamburgerMenuButton/Parts/CloseWithLabelIcon',
+  title: 'Component/HamburgerMenuButton/Parts/CloseWithLabelIcon',
   component: CloseWithLabelIcon,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     isEnglish: {
       description: '英語サイト、もしくは多言語サイトの場合に使用します。',

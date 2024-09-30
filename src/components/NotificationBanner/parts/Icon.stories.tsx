@@ -4,9 +4,9 @@ import { bannerTypeClasses } from '../styles';
 import { NotificationBannerIcon } from './Icon';
 
 const meta = {
-  title: 'Component/DADS v2/NotificationBanner/Parts/Icon',
+  title: 'Component/NotificationBanner/Parts/Icon',
   component: NotificationBannerIcon,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   parameters: {
     docs: {
       description: {

@@ -2,9 +2,9 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { EmergencyBannerButton } from './Button';
 
 const meta = {
-  title: 'Component/DADS v2/EmergencyBanner/Parts/Button',
+  title: 'Component/EmergencyBanner/Parts/Button',
   component: EmergencyBannerButton,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   parameters: {
     docs: {
       description: {

@@ -3,9 +3,9 @@ import { fn } from '@storybook/test';
 import { NotificationBannerClose } from './Close';
 
 const meta = {
-  title: 'Component/DADS v2/NotificationBanner/Parts/Close',
+  title: 'Component/NotificationBanner/Parts/Close',
   component: NotificationBannerClose,
-  tags: ['autodocs'],
+  tags: ['autodocs', '!dev'],
   argTypes: {
     label: {
       description:
