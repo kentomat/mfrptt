@@ -31,9 +31,9 @@ const transparencyScale = {
 }
 const primitiveTokens = {
   WHITE: '#fff',
-  BLUE_100: '#0077c7',
+  BLUE_100: '#004098',
   BLUE_101: '#0071c1',
-  RED_100: '#e01e5a',
+  RED_100: '#e60012',
   ORANGE_100: '#ff8800',
   YELLOW_100: '#ffcc17',
   SMARTHR_BLUE: '#00c4cc',
